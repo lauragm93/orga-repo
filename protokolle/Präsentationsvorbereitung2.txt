@@ -1,0 +1,5 @@
+	1. Gryns: Serverlandschaft, gemeinsames Produkt, Metriken
+	2. NGINY: Designpattern
+	3. Infinity:  Grundimplementierung Designpattern
+	4. Scrum: Credentials
+  5. BBROWS: Implementierung Ansible, Freitag Impediment
